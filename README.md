@@ -1,8 +1,8 @@
 <div align="center">
 <img src="https://i.redd.it/pb7gwgbche191.jpg" width="25%" align="right" />
 <pre>
-    💼 42 stud • Fullstack Dev • Console
-    💻 C • C++ • C# • HTML,CSS,JS,PHP • PYTHON • DevOps 
+    💼 42 stud
+    💻 C • C++ • C# • HTML,CSS,JS,PHP • PYTHON
     📖 IT Architecture 
     🎮 Producing Music • Games • Code 
 </pre>
