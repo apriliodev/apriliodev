@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working on **42 Next Common Core**
 
-- 🌱 I'm currently learning **IA programming in Python, C, Zig, Rust.**
+- 🌱 I'm currently learning **IA development in Python, C, Zig, Rust.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
